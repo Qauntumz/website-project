@@ -308,6 +308,9 @@ body {
      box-shadow: inset 1px 2px 15px 0 rgba(0, 0, 0, 0.5);
  }
 
+ #button:hover {
+     cursor: pointer;
+ }
  /* footer syles */
 #footer {
     background-color: rgba(100, 65, 0,0.3);
